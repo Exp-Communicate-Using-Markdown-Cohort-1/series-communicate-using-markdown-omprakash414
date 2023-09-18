@@ -4,3 +4,5 @@
 #### In Marathwada region I live in Latur District
 ##### In Latur District I live in Chakur Taluka
 ###### In Chakur taluka I live in Atola village
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
